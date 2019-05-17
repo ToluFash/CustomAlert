@@ -8,6 +8,7 @@ modalize(textContent,bgColor, textColor, font)
 ```
 #Example
 HTML
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,3 +31,4 @@ document.getElementById('click4').addEventListener('click',() =>{modalize('Hello
 document.getElementById('click5').addEventListener('click',() =>{modalize('Hello World')});
 </script>
 </html>
+```
